@@ -1,0 +1,10 @@
+
+.env
+node_modules/
+*.log
+*.tmp
+.vscode/
+.idea/
+*.pid
+coverage/
+127_0_0_1.sql
